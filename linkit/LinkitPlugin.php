@@ -10,17 +10,17 @@ class LinkitPlugin extends BasePlugin
 
     public function getVersion()
     {
-        return '0.9.1';
+        return '0.9.1.BC';
     }
 
     public function getDeveloper()
     {
-        return 'Fruit Studios';
+        return 'Fruit Studios/Bigcommerce Fork';
     }
 
     public function getDeveloperUrl()
     {
-        return 'http://fruitstudios.co.uk';
+        return 'https://github.com/lwilkowskeBC/Linkit';
     }
 
 }
